@@ -4,6 +4,7 @@ Investment bot script on js
 # Install
 **Installing the module:**
 `npm i node-telegram-bot-api`
+
 **Installing the script:**
 `git clone https://github.com/JoniKoils/invest`
 
